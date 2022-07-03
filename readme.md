@@ -1,6 +1,6 @@
 
-
-* 필요한 라이브러리 설치
+```
+* 필요한 라이브러리 설치Cancel changes
 $ pip install -r requirements.txt
 
 * 실행
@@ -8,7 +8,7 @@ $ python main.py
 
 * 검색 중 뒤에 실행 종료 될 시
 $ conda install faiss-cpu -c pytorch
-
+```
 
 ## Goal: 문장 파일 내에서 문장들의 유사도가 높은(0.9 이상) 문장 쌍의 추출
 
